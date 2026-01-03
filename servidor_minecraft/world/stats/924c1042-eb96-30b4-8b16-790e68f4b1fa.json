@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 961,
+      "minecraft:time_since_rest": 7360,
+      "minecraft:fall_one_cm": 225,
+      "minecraft:walk_one_cm": 510,
+      "minecraft:total_world_time": 7360,
+      "minecraft:leave_game": 2,
+      "minecraft:fly_one_cm": 2784,
+      "minecraft:walk_on_water_one_cm": 164,
+      "minecraft:play_time": 7360,
+      "minecraft:jump": 17,
+      "minecraft:time_since_death": 7360
+    },
+    "minecraft:picked_up": {
+      "minecraft:wildflowers": 3
+    }
+  },
+  "DataVersion": 4671
+}
